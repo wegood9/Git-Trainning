@@ -4,6 +4,7 @@
 - git init
 - git add    
 - git commit
+- git branch
 - git push
 ***
 ## config
@@ -14,5 +15,8 @@
 添加文件至暂存区
 ## commit
 提交暂存区到仓库区
+## branch
+分支操作
 ## push
 推送至远程仓库
+↑↑↓↓←→←→baba
